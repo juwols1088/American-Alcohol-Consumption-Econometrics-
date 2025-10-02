@@ -199,3 +199,4 @@ logisticsquared =glm(data = trainsquared, dummyALC~VALUE+FSALARYM+cpi+USEPUINDXD
 summary(logisticsquared)
 
 
+
